@@ -1,0 +1,16 @@
+Dashboard Executivo de Companhia Aérea - Araponga Linhas Aéreas
+Aluno: Gabriel Lima
+Disciplina: Visualização de Dados
+
+Parte 4 - Insights
+Perguntas Respondidas dos Requisitos: Q1, Q2, Q3, Q4, Q5, Q6, Q9, Q10, Q11, Q12, Q13, Q14, Q15.
+13/15
+
+Insight 1 - Voos partindo do Rio de Janeiro (aeroporto SDU) com destino à João Pessoa (aeroporto JPA) possuem um tempo de atraso médio 10x maior do que a média geral.
+Decisão: A companhia deveria investigar especificamente essa rota, analisando as causas dos atrasos, os horários de operação e possíveis problemas de logística ou conexão, a fim de identificar oportunidades para reduzir o tempo de atraso.
+
+Insight 2 - Voos em que foram utilizadas as aeronaves do modelo ATR 72-600 retornaram um prejuízo de aproximadamente 3 milhões de reais no ano.
+Decisão: A companhia deveria avaliar a viabilidade operacional e financeira do uso das aeronaves ATR 72-600, analisando custos, receitas, ocupação e rentabilidade, para decidir se é necessário ajustar sua utilização ou buscar alternativas mais rentáveis.
+
+Insight 3 - A correlação entre a Taxa de Ocupação dos Voos e o Lucro dos Voos demonstra-se positiva, mas fraca. Há casos de voos com até 99% de ocupação que ainda apresentam prejuízo de aproximadamente R$ 17 mil, indicando que uma alta ocupação não garante rentabilidade.
+Decisão: A companhia não deveria utilizar a taxa de ocupação como único indicador para avaliar a rentabilidade dos voos, devendo também analisar fatores como preço das passagens, custos operacionais, distância das rotas e tipo de aeronave.
