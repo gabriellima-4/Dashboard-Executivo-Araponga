@@ -17,6 +17,7 @@ Relatório Executivo com Dashboards em Power BI para uma companhia aérea Brasil
 - Medidas e Colunas Calculadas para os Visuais e Análises;
 - Insights (seção 4 do pdf);
 - Desmembramento do dataset original em tabelas fato e dimensão;
+- Criação de botões de navegação entre os dashboards;
 
 <br>
 <br>
