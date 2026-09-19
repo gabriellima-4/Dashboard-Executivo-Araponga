@@ -53,9 +53,11 @@ Relatório Executivo com Dashboards em Power BI para uma companhia aérea Brasil
 <br/>
 
 ### 🧑‍💻 Tecnologias Utilizadas
+<p>
 <img align="center" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000" width=60 />
 <img align="center" src="https://img.icons8.com/?size=100&id=JChkA69vF7Lo&format=png&color=000000" width=60 />
 <img align="center" src="https://img.icons8.com/?size=100&id=h5aGExIW8Uft&format=png&color=000000" width=60 />
+</p>
 
 <br/>
 <br/>
